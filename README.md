@@ -6,3 +6,10 @@ Link to MediaPipe BlazePose code used: https://google.github.io/mediapipe/soluti
 We were able to successfully predict 3 actions which were Standing, Moving and Sleeping. 
 
 ## Standing
+![img](Standing.jpg)
+
+## Moving
+![img](moving.jpg)
+
+## Sleeping/Sitting
+![img](sitting.jpg)
