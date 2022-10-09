@@ -11,10 +11,10 @@ To check the output of the file, you can simply run the AngleProject.py file. By
 We were able to successfully predict 3 actions which were Standing, Moving and Sleeping. 
 
 #### Standing
-![img](Standing.jpg)
+<img src="Standing.jpg" width="50%" height="50%">
 
 #### Moving
-![img](moving.jpg)
+<img src="moving.jpg" width="50%" height="50%">
 
 #### Sleeping/Sitting
-![img](sitting.jpg)
+<img src="sitting.jpg" width="50%" height="50%">
